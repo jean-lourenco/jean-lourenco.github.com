@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Sobre
-permalink: /sobre/
+title: Projetos
+permalink: /projetos/
 ---
 
-Some information about you!
+Some projects about you!
 
 ### More Information
 
